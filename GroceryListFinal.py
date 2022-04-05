@@ -1,6 +1,5 @@
 #Name: Krystle Sivak
-#Class: IT 140
-#Project: Grocery List Final
+#Grocery List
 
 #Shows an empty dictionary assigned to grocery_item
 grocery_item = {}
