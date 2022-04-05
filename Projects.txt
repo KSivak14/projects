@@ -1,0 +1,8 @@
+CREATE TABLE projects (project_name VARCHAR(50), class_name VARCHAR(50), description VARCHAR(250) )
+
+
+INSERT INTO projects (project_name, class_name, description)
+VALUES ('Network Assessment', 'Security Assessment and Auditing', 'Evaluate a network, analzye CVE, 
+		suggest mitigation tactics based on security best practices')
+
+SELECT * FROM projects
