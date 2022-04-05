@@ -1,8 +1,7 @@
 import sys
 
 #Name: Krystle Sivak
-#Class: IT140
-#Project: ATM Script Final
+#ATM Script
 
 #Sets a value to the user's account balance variable
 account_balance = float(500.25)
