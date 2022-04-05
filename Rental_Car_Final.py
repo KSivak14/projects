@@ -3,8 +3,7 @@ import sys
 Section 1: Collect customer input
 '''
 #Name: Krystle Sivak
-#Class: IT 140
-#Project: Rental Car Billing Final
+#Rental Car Billing
 
 #By inputting B, D, or W this script will print the rental code and rental period
 #B = Budget
